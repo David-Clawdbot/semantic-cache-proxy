@@ -1,0 +1,39 @@
+{
+    "name": "semantic_cache_proxy",
+    "version": "1.0.0",
+    "description": "语义缓存省Token技能，当用户查询与历史请求语义相似度≥0.85时自动触发。使用Sentence-BERT转向量，Redis存储，匹配成功直接返回缓存结果，设24小时过期，支持手动开关。",
+    "author": "David",
+    "license": "MIT",
+    "keywords": [
+        "语义缓存",
+        "节省Token",
+        "缓存查询",
+        "使用缓存"
+    ],
+    "triggers": [
+        "语义缓存",
+        "节省Token",
+        "缓存查询",
+        "使用缓存"
+    ],
+    "dependencies": {
+        "python": [
+            "gensim",
+            "redis",
+            "numpy",
+            "jieba",
+            "scipy",
+            "smart_open"
+        ]
+    },
+    "requires": [
+        "redis"
+    ],
+    "category": "productivity",
+    "tags": [
+        "cache",
+        "token-saving",
+        "semantic-matching",
+        "openclaw"
+    ]
+}

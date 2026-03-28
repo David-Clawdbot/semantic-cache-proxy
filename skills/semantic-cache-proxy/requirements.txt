@@ -1,0 +1,6 @@
+gensim
+redis
+numpy
+jieba
+scipy
+smart_open

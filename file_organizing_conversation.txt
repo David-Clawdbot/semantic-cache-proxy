@@ -1,0 +1,11 @@
+David: 你帮我把/home/david 下的文件整理一下，有点乱啊
+
+智能爪: 我需要先查看一下/home/david 目录下的文件结构，了解哪些文件需要整理。
+我现在帮你整理/home/david 目录下的文件，首先查看一下目录内容。
+
+David: 好的，麻烦你了。
+
+智能爪: 我已经查看了 /home/david 目录下的文件，现在我将按照功能和类型进行分类整理。
+<seed:tool_call>
+</function>
+</seed:tool_call>
