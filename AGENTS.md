@@ -169,7 +169,6 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
     "calendar": 1703260800,
     "weather": null
   }
-}
 ```
 
 **When to reach out:**
